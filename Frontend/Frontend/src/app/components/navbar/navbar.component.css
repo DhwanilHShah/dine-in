@@ -1,0 +1,19 @@
+#main-page{
+    background-image: url(city.jpg);
+}
+
+/* .mat-tab-header {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    background-color: #FFD73F;
+} */
+
+.mat-tab-header {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    background-color: #FFD73F !important;
+}
